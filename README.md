@@ -1,1 +1,1 @@
-# provably-weak-to-strong
+The three experimental figures from the main text can be reproduced with `simulation.py`, `compute_ablation.py`, and `relu_offline.py`, respectively. The results from Table 1 (Appendix D) can be reproduced with `mnist.py`. None of these scripts require arguments.
